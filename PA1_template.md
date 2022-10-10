@@ -218,9 +218,5 @@ plot_day_of_week_comparison(day_of_week_data)
 ![plot of chunk weekday_compare](figure/weekday_compare.png) 
 
 
-#### The observation between the activity on the weekends and weekdays is that they are quite similar pattern.  The weekends a bit tends to be more spread out over the day compared to the weekdays. The peak is not that high compared to the weekdays activity. This could be that the weekends tends to be more relaxed than the weekdays.
-
-
-### This reported prepared by Veerasak Kritsanapraphan (veerasak.kritsanapraphan@gmail.com)
 
 
